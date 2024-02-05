@@ -7,5 +7,15 @@
 
 }
 .child2{
-    background-color: ;
+    background-color:green ;
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
+.child3{
+    background-color: blueviolet;
+    bottom: 0;
+    right: 0;
+    position: relative;
+
 }
