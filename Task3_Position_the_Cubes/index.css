@@ -1,0 +1,21 @@
+.Parent {
+  background-color: yellow;  
+}
+.child1{
+    background-color: red;
+    position: absolute;
+
+}
+.child2{
+    background-color:green ;
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
+.child3{
+    background-color: blueviolet;
+    bottom: 0;
+    right: 0;
+    position: relative;
+
+}
